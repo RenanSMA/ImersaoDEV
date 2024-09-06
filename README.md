@@ -38,4 +38,3 @@ Agradeço à Alura e à comunidade da Imersão Dev por proporcionar essa incrív
 
 *Divirta-se explorando o mundo dos jogos independentes!*
 
-https://media1.tenor.com/m/EhFrWDlY-E4AAAAC/dead-cells-deas-cells.gif
