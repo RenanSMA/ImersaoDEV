@@ -32,7 +32,8 @@ Próximos Passos:
 Implementar filtros: Permitir que os usuários filtrem os resultados por gênero, plataforma e outras características.
 Criar um sistema de favoritos: Permitir que os usuários marquem seus jogos favoritos para consulta posterior.
 Desenvolver um design responsivo: Adaptar a página para diferentes dispositivos e tamanhos de tela.
-Agradecimentos:
+
+**Agradecimentos:**
 
 Agradeço à Alura e à comunidade da Imersão Dev por proporcionar essa incrível oportunidade de aprendizado. Sou muito grato por ter adquirido novas habilidades e por ter criado este projeto.
 
